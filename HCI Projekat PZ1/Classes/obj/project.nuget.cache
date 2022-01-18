@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ir4EHcAffx7pA6utBvMOOJKfeLfu4Sm3lQs6wNkegtiQaFy6fhvGa/dTKwinluyaj38WJ2pAIAp/J18D02Ypxg==",
+  "success": true,
+  "projectFilePath": "D:\\Fax\\Interakcija covek racunar\\Vezbe\\Projekat K1\\Projekat\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bozov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bozov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bozov\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
